@@ -8,7 +8,7 @@ Welcome to TechnicalCommunication's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: chapter1:
    
    chapter1/introduction.md
 
